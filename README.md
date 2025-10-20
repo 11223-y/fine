@@ -5,7 +5,7 @@ Project Overview
 Interactive Streamlit dashboard for analyzing hospital patient data and satisfaction scores.
 
 Live Demo
--Streamlit App: [http://localhost:8501/]
+-Streamlit App: [https://hosp11223.streamlit.app/]
 -GitHub Repo: [https://github.com/11223-y]
 
 Installation
