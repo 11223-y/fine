@@ -16,7 +16,7 @@ pip install -r requirements.txt
 streamlit run finalapp.py
 
 Features
-Service type analysis
-Patient satisfaction trends
-Interactive filters
-Data visualization
+- Service type analysis
+- Patient satisfaction trends
+- Interactive filters
+- Data visualization
