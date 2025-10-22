@@ -8,8 +8,6 @@ Live Demo
 -Streamlit App: [https://hosp11223.streamlit.app/]
 -GitHub Repo: [https://github.com/11223-y]
 
-Installation
-
 bash  
 Clone and run 
 git clone [(https://github.com/11223-y).git] 
@@ -18,7 +16,7 @@ pip install -r requirements.txt
 streamlit run finalapp.py
 
 Features
-- Service type analysis
-- Patient satisfaction trends
-- Interactive filters
-- Data visualization
+Service type analysis
+Patient satisfaction trends
+Interactive filters
+Data visualization
